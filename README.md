@@ -6,7 +6,7 @@ Features:
 3. Messaging ability with emoticon reactions. 
 4. CRUD methods. 
 
-While this was a group projects, I was majorly responsible for the following tasks:
+While this was a group project, I was majorly responsible for the following tasks:
 1. Built the messaging functionality. (src/message.py)
 2. Built the ability to check statistics of the application like number of members, channels, their interactions, status' etc. (tests/user_stats and stats)
 3. Managing tasks, timelines and creating the design documentation for the whole project. 
